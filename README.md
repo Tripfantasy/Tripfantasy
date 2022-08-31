@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tripfantasy
 - 👀 I’m interested in:  Bioinformatics, Computational Biology, Statistics, Philosophy of Science
-- 🌱 I’m currently learning: Python, BioPython
+- 🌱 I’m currently learning: Python, BioPython, R , and Bash
 - 💞️ I’m looking to collaborate on: Statistical modeling, Visualization
 - 📫 How to reach me:
 -        |Discord| Gunk#5078
