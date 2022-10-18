@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tripfantasy
+- 👋 Hi, I’m Davin
 - 👀 I’m interested in:  Bioinformatics, Computational Biology, Statistics, Philosophy of Science
 - 🌱 I’m currently learning: Python, BioPython, R , and Bash
 - 💞️ I’m looking to collaborate on: Statistical modeling, Visualization
