@@ -1,7 +1,11 @@
-👋 Hi, I’m Davin! I'm currently progressing through M.S. coursework in Bioinformatics and Genomics. Continuously building on a data-oriented mindset which thinks creatively about science.
+👋 Hi, I’m Davin! 
+- M.S. Biology, Bioinformatics and Genomics
+- B.S. Biology, Bioinformatics and Computational Biology
+
+Continuously building on a data-oriented mindset which thinks creatively about science.
 
 - I’m interested in:  Bioinformatics, Computational Biology, Statistics, Machine Learning, Philosophy of Science
-- I’m currently learning: Python, R , Pytorch and Bash
+- Primarily coding in: Python, R , Bash
 - I’m looking to collaborate on: Statistical modeling, Visualization, Applied Machine Learning
 
 <!---
