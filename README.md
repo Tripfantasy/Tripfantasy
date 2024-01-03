@@ -4,7 +4,7 @@
 
 Continuously building on a data-oriented mindset which thinks creatively about science.
 
-- I’m interested in:  Bioinformatics, Computational Biology, Statistics, Machine Learning, Philosophy of Science
+- I’m interested in:  Bioinformatics, Computational Biology, Statistics, tools development, Machine Learning, Philosophy of Science
 - Primarily coding in: Python, R , Bash
 - I’m looking to collaborate on: Statistical modeling, Visualization, Applied Machine Learning
 
